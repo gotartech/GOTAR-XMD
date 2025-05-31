@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "pur your session id here ",
+SESSION_ID: process.env.SESSION_ID || "GOTAR~XMD~fJozQJBR#vsEfJa3cifXZACGMllsfibktdRIoxnrlZfzNhPXMDA0 ",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
@@ -27,7 +27,7 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/82b8gr.j
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "𝐆𝐎𝐓𝐀𝐑 𝐗𝐌𝐃",
+BOT_NAME: process.env.BOT_NAME || "Groov",
 // add bot namw here for menu
 STICKER_NAME: process.env.STICKER_NAME || "𝐆𝐎𝐓𝐀𝐑 𝐗𝐌𝐃",
 // type sticker pack name 
